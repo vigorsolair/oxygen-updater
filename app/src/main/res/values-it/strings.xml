@@ -301,7 +301,7 @@ Per verificare, controlla la versione attuale del tuo sistema:
 	<string name="device_information_cpu_frequency">"Frequenza processore:"</string>
 	<string name="device_information_header">"Dispositivo"</string>
 	<string name="device_information_image_description">"Immagine Dispositivo"</string>
-	<string name="device_information_incremental_os_version">"Versone di sistema incrementale:"</string>
+	<string name="device_information_incremental_os_version">"Versione di sistema incrementale:"</string>
 	<string name="device_information_os_version">"Versione Android"</string>
 	<string name="device_information_oxygen_os_version">"Versione OxygenOS:"</string>
 	<string name="device_information_oxygen_os_ota_version">"Versione OTA:"</string>
