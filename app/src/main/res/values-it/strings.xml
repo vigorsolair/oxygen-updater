@@ -289,7 +289,7 @@ Per verificare, controlla la versione attuale del tuo sistema:
 	<string name="install_guide_zip_file_missing">"Se vuoi mantenere il root, seleziona il pacchetto root da usare."</string>
 
 	<!-- Device information strings -->
-	<string name="device_information_supported_oxygen_os">Dispositivo è supportato.</string>
+	<string name="device_information_supported_oxygen_os">Il dispositivo è supportato.</string>
 	<string name="device_information_carrier_exclusive_oxygen_os">Dispositivo non support, in quanto esclusivo col gestore.</string>
 	<string name="device_information_unsupported_oxygen_os">Dispositivo non ancora supportato.</string>
 	<string name="device_information_unsupported_os">Il tuo dispositivo non è supportato, non utilizza OxygenOS.</string>
@@ -302,7 +302,7 @@ Per verificare, controlla la versione attuale del tuo sistema:
 	<string name="device_information_header">"Dispositivo"</string>
 	<string name="device_information_image_description">"Immagine Dispositivo"</string>
 	<string name="device_information_incremental_os_version">"Versone di sistema incrementale:"</string>
-	<string name="device_information_os_version">"Versione Android"</string>
+	<string name="device_information_os_version">"Versione Android:"</string>
 	<string name="device_information_oxygen_os_version">"Versione OxygenOS:"</string>
 	<string name="device_information_oxygen_os_ota_version">"Versione OTA:"</string>
 	<string name="device_information_patch_level_version">"Data security patch:"</string>
