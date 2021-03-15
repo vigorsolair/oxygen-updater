@@ -305,7 +305,7 @@ Per verificare, controlla la versione attuale del tuo sistema:
 	<string name="device_information_os_version">"Versione Android"</string>
 	<string name="device_information_oxygen_os_version">"Versione OxygenOS:"</string>
 	<string name="device_information_oxygen_os_ota_version">"Versione OTA:"</string>
-	<string name="device_information_patch_level_version">"Data security patch:"</string>
+	<string name="device_information_patch_level_version">"Aggiornamento di sicurezza Android:"</string>
 	<string name="device_information_serial_number">"Numero seriale:"</string>
 	<string name="device_information_system_on_a_chip">"Chip:"</string>
 	<string name="device_information_unknown">"sconosciuto"</string>
